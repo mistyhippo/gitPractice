@@ -1,3 +1,4 @@
+
 hello!
 just practicing some git stuff
 
@@ -11,3 +12,7 @@ she doesn't like rice or noodles. that's so weird.
 she thinks chicken smells funny. 
 
 i think i am hungry
+
+
+
+
